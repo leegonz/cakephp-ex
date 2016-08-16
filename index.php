@@ -1,7 +1,7 @@
 <?php
 /**
  * Requests collector.
- * TEST 2
+ * TEST three
  *  This file collects requests if:
  *	- no mod_rewrite is available or .htaccess files are not supported
  *  - requires App.baseUrl to be uncommented in app/Config/core.php
